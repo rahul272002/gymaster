@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gymaster/static/css/main.d2b69753.css",
+    "main.js": "/gymaster/static/js/main.b6914029.js",
+    "static/js/787.c220ea94.chunk.js": "/gymaster/static/js/787.c220ea94.chunk.js",
+    "static/media/trainer.png": "/gymaster/static/media/trainer.a72c274fe29d68ac6256.png",
+    "static/media/heroImg.png": "/gymaster/static/media/heroImg.ad69259403b93c05869b.png",
+    "static/media/yoga.png": "/gymaster/static/media/yoga.1009817918cc6df26064.png",
+    "static/media/extended.png": "/gymaster/static/media/extended.65fee2ef368e447527a7.png",
+    "static/media/lunges.png": "/gymaster/static/media/lunges.52e48615ce527a095bcf.png",
+    "index.html": "/gymaster/index.html",
+    "static/media/location.svg": "/gymaster/static/media/location.c425271e094d5ba5c6a22adbbf0cfca0.svg",
+    "static/media/menu.svg": "/gymaster/static/media/menu.62156aa1f3f8ed08b3c42f31823cbef1.svg",
+    "main.d2b69753.css.map": "/gymaster/static/css/main.d2b69753.css.map",
+    "main.b6914029.js.map": "/gymaster/static/js/main.b6914029.js.map",
+    "787.c220ea94.chunk.js.map": "/gymaster/static/js/787.c220ea94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2b69753.css",
+    "static/js/main.b6914029.js"
+  ]
+}
